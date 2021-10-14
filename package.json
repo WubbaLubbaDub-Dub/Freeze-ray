@@ -1,0 +1,22 @@
+{
+  "name": "freeze-ray",
+  "version": "1.0.0",
+  "description": "It could freeze organic targets until they became an icy statue. The effects were reversible but made the target extremely fragile and prone to shattering",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WubbaLubbaDub-Dub/Freeze-ray.git"
+  },
+  "keywords": [
+    "hackathon"
+  ],
+  "author": "Rick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WubbaLubbaDub-Dub/Freeze-ray/issues"
+  },
+  "homepage": "https://github.com/WubbaLubbaDub-Dub/Freeze-ray#readme"
+}
