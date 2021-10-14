@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/WubbaLubbaDub-Dub/Freeze-ray.git"
   },
+  "publishConfig": {
+    "@WubbaLubbaDub-Dub:registry": "https://npm.pkg.github.com"
+  },
   "keywords": [
     "hackathon"
   ],
